@@ -1,0 +1,6 @@
+requests
+pandas
+urllib3
+ipywidgets
+dotenv
+#google-colab>=1.0.0; platform_system == "Linux" and python_version >= "3.7"
