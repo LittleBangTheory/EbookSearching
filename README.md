@@ -63,3 +63,7 @@ A summary is printed to the console, but the raw data is in a CSV file.
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
 For instance I dropped mid-way my attemp to setup it of Google Colab, so if you want that functionality, feel free to implement it and submit a PR.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
